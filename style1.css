@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+
+    background: rgb(27, 27, 27);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: white;
+    width: 270px;
+    height: auto;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.card-image {
+    height: 180px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.card-1 {
+    background-image: url('web design/erling Haaland.jpg');
+}
+
+.card-2 {
+    background-image: url('web design/ollie watkins.jpg');
+}
+
+.card-3 {
+    background-image: url('web design/mo salah.jpg');
+}
+
+.card a {
+    background-color: black;
+    color: white;
+    display: block;
+    text-align: center;
+    margin: 20px 15px;
+    text-decoration: none;
+}
+
+.card a:hover {
+    color: red;
+}
+
+.card:hover {
+    background-color: darkslategray;
+    color: white;
+    cursor: pointer;
+    transform: scale(1.10);
+    transition: all 1s ease;
+}

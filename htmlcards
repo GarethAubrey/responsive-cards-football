@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en"
+
+<head>
+    <meta name="viewport" content="width=device-width" intial="1.0">
+    <title>Responsive Cards</title>
+    <link rel="stylesheet" href="style1.css"
+</head>
+
+<body>
+
+    <section class="container">
+        <div class="card">
+            <div class="card-image card-1"></div>
+            <h2> <a href="links/Haaland Wiki page.url"> Eling Haaland</a></h2>
+            <p>
+                Erling Braut Haaland born 21 July 2000 is a Norwegian professional footballer who plays
+                as a striker for Premier League club Manchester City and the Norway national team.
+                Considered one of the best players in the world, he is known for his speed, strength, positioning, and finishing inside the box.
+                In his debut Premier League season, Haaland broke the record for the most goals scored by a player in a single season, with 36
+            </p>
+            <a href="links/Haaland Wiki page.url"></a>    
+        </div>  
+    <section class="container">
+         <div class="card">
+            <div class="card-image card-2"></div>
+            <h2> <a href="C:\Users\Garet\Desktop\VS code folder\links\Watkins Wiki page.url">Ollie Watkins</a></h2>
+            <p>
+                Oliver George Arthur Watkins (born 30 December 1995) is an English professional footballer who plays as a forward
+                for Premier League club Aston Villa and the England national team.
+            </p>    
+             <a href="Read More"></a> 
+        </div>  
+    <section class="container">
+        <div class="card">
+            <div class="card-image card-3"></div>
+            <h2> <a href="C:\Users\Garet\Desktop\VS code folder\links\Salah Wiki page.url">Mo Salah</a></h2>
+            <p>Mohamed Salah Hamed Mahrous Ghaly, (born 15 June 1992), known as Mohamed Salah or Mo Salah,
+                is an Egyptian professional footballer who plays as a right winger or forward for Premier League
+                club Liverpool and captains the Egypt national team. Regarded as one of the best players of his generation
+                and among the greatest African players of all time, he is known for his clinical finishing, dribbling and speed.
+            </p>    
+        </div>   
+    </section>
+    
+</body>    
